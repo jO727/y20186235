@@ -1,0 +1,73 @@
+body{
+        background-image: url('books-connection-contemporary-459654.jpg');
+		background-repeat: no-repeat;
+		background-position:center;
+		background-size:cover;
+		
+		margin:0px;
+        padding:0px;
+	
+     }
+h1{color:white;
+   font-size:25px;
+   text-align:center;
+  
+
+   }
+
+table td
+{
+     font-size: 20px;
+	 font-family:time new remon;
+	 padding:5px;
+	 
+}
+
+	 
+.bar{
+	
+	background-color:rgba(0,0,0,0.9);
+	display:flex;
+	justify-content:center;
+	width:100%;
+	margin-bottom:50px;
+
+	
+}
+.bar ul li{
+    float:left;  
+    list-style-type:none;
+	font-family:time new remon;
+    border-right :1px solid #D0D0D0;
+	border-left:1px solid #d0d0d0;
+}
+
+.bar li a{
+	text-decoration:none;
+	font-size:20;
+	color:white;
+	padding:15px;
+			}
+
+.bar ul li a:hover{
+				
+				color:Blue;				
+
+			}
+.con{
+	     	background-color:#D8D8D8; 
+            height:80%;
+			width:40%;
+		    margin: auto;
+		    border-radius: 20px;
+			padding-top:20px;
+
+}
+
+.form table{
+	
+	 margin:auto;
+	 width:60%;
+	 padding-top:110px;
+	
+}
